@@ -1,7 +1,7 @@
-import express from 'express';
-import * as admin from 'firebase-admin';
-import bodyParser from 'body-parser';
-var serviceAccount = require('./react-native-project-444e3-firebase-adminsdk-cvbqz-c7356ae3dc.json');
+const express = require('express');
+const admin = require('firebase-admin');
+const bodyParser = require('body-parser');
+const serviceAccount = require('./react-native-project-444e3-firebase-adminsdk-cvbqz-c7356ae3dc.json');
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
