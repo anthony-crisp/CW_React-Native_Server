@@ -24,9 +24,13 @@
     "extends": "universe/node"
   }
   },
+
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "firebase-admin": "^5.7.0"
+  },
+  "engines": {
+    "node": "7.10.0"
   }
 }
