@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add grunt-cli
+  /usr/local/bin/node /usr/local/bin/yarn add --dev eslint-config-universe
 
 PATH: 
   /Users/anthonycrisp/.rvm/gems/ruby-2.4.0/bin:/Users/anthonycrisp/.rvm/gems/ruby-2.4.0@global/bin:/Users/anthonycrisp/.rvm/rubies/ruby-2.4.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/anthonycrisp/.rvm/bin
