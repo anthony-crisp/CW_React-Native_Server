@@ -21,14 +21,14 @@
     "nodemon": "^1.14.10",
     "prettier": "^1.10.2",
     "eslintConfig": {
-    "extends": "universe/node"
-  }
+      "extends": "universe/node"
+    }
   },
-
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "firebase-admin": "^5.7.0"
+    "firebase-admin": "^5.7.0",
+    "grunt-cli": "^1.2.0"
   },
   "engines": {
     "node": "7.10.0"
